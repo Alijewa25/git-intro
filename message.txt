@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Change from feature branch
 Change from main
+=======
+Message from main branch
+Message from feature branch
+>>>>>>> parent of 1b69560 (Change message in main)
